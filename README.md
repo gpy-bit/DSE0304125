@@ -8,4 +8,4 @@ A more detailed explanation of what the project does, its features, and the prob
 
 ## Getting Started
 
-Instructions on how to set up and run the project locally.
+load the website into your browser by double clicking on index.html
