@@ -1,0 +1,35 @@
+/* This is a CSS comment */
+
+/* Styles for the body element */
+body {
+  font-family: Arial, sans-serif; /* Sets the default font */
+  background-color: #f0f0f0;    /* Sets a light gray background color */
+  margin: 20px;                 /* Adds margin around the body content */
+}
+
+/* Styles for h1 headings */
+h1 {
+  color: #333; /* Sets the text color to dark gray */
+  text-align: center; /* Centers the text */
+}
+
+/* Styles for paragraphs */
+p {
+  line-height: 1.6; /* Adjusts the spacing between lines of text */
+  color: #666;      /* Sets the text color to a medium gray */
+}
+
+/* Styles for elements with the class "highlight" */
+.highlight {
+  background-color: yellow; /* Sets a yellow background for highlighted elements */
+  font-weight: bold;        /* Makes the text bold */
+}
+
+/* Styles for an element with the ID "main-content" */
+#main-content {
+  width: 80%;       /* Sets the width to 80% of its parent */
+  margin: 0 auto;   /* Centers the element horizontally */
+  padding: 20px;    /* Adds padding inside the element */
+  border: 1px solid #ccc; /* Adds a light gray border */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
