@@ -9,3 +9,4 @@ A more detailed explanation of what the project does, its features, and the prob
 ## Getting Started
 
 load the website into your browser by double clicking on index.html
+This should show and astronaut on a yellow background
