@@ -10,12 +10,12 @@ body {
 /* Styles for h1 headings */
 h1 {
   color: #333; /* Sets the text color to dark gray */
-  text-align: center; /* Centers the text */
+  text-align: left; /* Centers the text */
 }
 
 /* Styles for paragraphs */
 p {
   line-height: 1.6; /* Adjusts the spacing between lines of text */
   color: #666;      /* Sets the text color to a medium gray */
-  text-align: center; /* Centers the text */
+  text-align: left; /* Centers the text */
 }
